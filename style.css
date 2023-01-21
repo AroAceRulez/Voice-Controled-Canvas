@@ -1,0 +1,19 @@
+body
+{
+	text-align: center;
+	background-image: url("shapes.gif");
+	color:white;
+	font-family: cursive;
+}
+span
+{
+	font-size: 18px;
+	color: cornsilk;
+	background-color: black;
+}
+canvas
+{
+	background: lightgreen;
+	border-radius: 20px;
+	border:5px goldenrod ridge;
+}
